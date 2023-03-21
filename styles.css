@@ -12,7 +12,7 @@ body > header {
 }
 
 body > div {
-    background-color: #725014;
+    background-color: #a76c29;
     margin: 25%;
     margin-top: 3%;
     margin-bottom: 5rem;
@@ -22,6 +22,35 @@ body > div {
     border-style: outset;
     
     padding: 2rem;
+}
+
+body > div > ul {
+    text-align: left;
+    padding-left: 37%;
+}
+
+
+
+.content_div {
+    background-color: rgb(240, 217, 215);
+    padding: 0px;
+    width: 50%;
+    margin-left: 25%;
+    border-width: 1mm;
+    border: #3A3335;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.content_div > element {
+    margin: 2px unset 2px unset;
+}
+
+img {
+    margin-top: 0px;
+    margin-left: 5mm;
+    width: 100px;
+    height: 64px;
 }
 
 body > div > h1 {
