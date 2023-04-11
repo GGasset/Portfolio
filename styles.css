@@ -12,11 +12,11 @@ body > header {
 }
 
 body > div {
-    background-color: #db5c7c;
+    background-color: #50b16d;
     margin: 25%;
     margin-top: 3%;
     margin-bottom: 5rem;
-    border-color: #54d8ef;
+    border-color: #cb42e6;
     border-width: 2px;
     border-radius: 3rem;
     border-style: outset;
